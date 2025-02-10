@@ -87,6 +87,12 @@ sudo useradd -m -s /bin/bash console
 sudo usermod -aG docker console
 ```
 
+### Set user password for security
+
+```
+sudo passwd console
+```
+
 ### Change user
 
 Change console to your username
