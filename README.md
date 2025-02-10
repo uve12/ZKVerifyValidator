@@ -1,6 +1,10 @@
 # ZKVerifyValidator
 How to setup ZKVerfiy Validator node to send zk proofs
 
+zkVerify is a high-performant, public, and decentralized blockchain dedicated to zero-knowledge proof verification. It provides a modular and composable approach for ZK apps to verify proofs.
+
+Docs : https://docs.zkverify.io/
+
 # Join Crypto Console Community
 
 Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) 
